@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.bffb59ae2a0a6be1b2ba29b03df5dfae.js"
+  "/precache-manifest.dc69db514bcc41f6c14c661db6912fd0.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "smartFund"});
