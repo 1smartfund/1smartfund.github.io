@@ -11,13 +11,16 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
+importScripts("/workbox-v3.6.3/workbox-sw.js");
+workbox.setConfig({modulePathPrefix: "/workbox-v3.6.3"});
 
 importScripts(
-  "/precache-manifest.dc69db514bcc41f6c14c661db6912fd0.js"
+  "/precache-manifest.620f8831a45c44c04651fe1ae57bfb60.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "smartFund"});
+
+workbox.skipWaiting();
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
