@@ -16,16 +16,16 @@ self.__precacheManifest = [
     "url": "/img/metamask_manage_2.47024736.png"
   },
   {
-    "revision": "792de69b72981c1332dd",
+    "revision": "7c10dda8f634bf089af2",
     "url": "/css/Help.4574d9b5.css"
   },
   {
-    "revision": "b8ee31d375fa2f472529",
-    "url": "/css/Home.ac54ed1e.css"
+    "revision": "6ecaa102441d32b8249f",
+    "url": "/css/Home.1560d24a.css"
   },
   {
-    "revision": "b8ee31d375fa2f472529",
-    "url": "/js/Home.acac0cd5.js"
+    "revision": "6ecaa102441d32b8249f",
+    "url": "/js/Home.f67ec53c.js"
   },
   {
     "revision": "eace211d65d6057a167b",
@@ -36,124 +36,124 @@ self.__precacheManifest = [
     "url": "/js/Home~Operation.265129a5.js"
   },
   {
-    "revision": "f37ef332633bdacfd33a",
-    "url": "/js/HowDividends.ee7cdc85.js"
+    "revision": "c6b2ba5ad928ebaeec42",
+    "url": "/js/HowDividends.6bbb7f4f.js"
   },
   {
-    "revision": "376a00ab6e53628c3713",
-    "url": "/js/HowGetSFP.685c07eb.js"
+    "revision": "e1d1fc2f2219708517e3",
+    "url": "/js/HowGetSFP.2a376407.js"
   },
   {
-    "revision": "9bc1b737df4b90ac1f44",
-    "url": "/js/HowInstallMetamask.9dd8b0b1.js"
+    "revision": "afdb85c39a080863a953",
+    "url": "/js/HowInstallMetamask.7b57f1da.js"
   },
   {
-    "revision": "e095bf716114cdb08291",
-    "url": "/js/HowPurchase.15b5d79c.js"
+    "revision": "d8906c9913bc11f89b38",
+    "url": "/js/HowPurchase.ee67d4b4.js"
   },
   {
-    "revision": "23dc9bfc116e8a2e0b1c",
-    "url": "/js/HowRedeem.4b9a984d.js"
+    "revision": "c342d2b23acac7c4efd9",
+    "url": "/js/HowRedeem.7d5c2928.js"
   },
   {
-    "revision": "e45777b2e1647e195047",
-    "url": "/js/ImtokenHowDividends.2e1de8ec.js"
+    "revision": "d34a067468d15ddb8cf8",
+    "url": "/js/ImtokenHowDividends.d2447b64.js"
   },
   {
-    "revision": "977e0702ee2b1560cc3c",
-    "url": "/js/ImtokenHowGetSFP.1894390b.js"
+    "revision": "54c495ed7fa189ef8cfb",
+    "url": "/js/ImtokenHowGetSFP.4d865878.js"
   },
   {
-    "revision": "c86cc3df62825f7916cb",
-    "url": "/js/ImtokenHowPurchase.802c761b.js"
+    "revision": "7d2e52f8b86c27904496",
+    "url": "/js/ImtokenHowPurchase.4f66c6f5.js"
   },
   {
-    "revision": "2e1f27746d0c3303c2a8",
-    "url": "/js/ImtokenHowRedeem.2c4742e2.js"
+    "revision": "cfe1f348ab3eb844b222",
+    "url": "/js/ImtokenHowRedeem.37d565ab.js"
   },
   {
-    "revision": "590a6a590ba3c681d652",
-    "url": "/js/ImtokenUse.45db6d28.js"
+    "revision": "65aa93cf1368374f127a",
+    "url": "/js/ImtokenUse.56e4f90b.js"
   },
   {
-    "revision": "cf4824674129fc733432",
-    "url": "/js/ImtokenVisitWebsite.4f9b3dfa.js"
+    "revision": "ef6445479914f7bbacd5",
+    "url": "/js/ImtokenVisitWebsite.bd11872a.js"
   },
   {
-    "revision": "9a10120321e34084169e",
+    "revision": "0704d5a820377d23cb8c",
     "url": "/css/Invest.c3328c3a.css"
   },
   {
-    "revision": "9a10120321e34084169e",
-    "url": "/js/Invest.4a8cd40e.js"
+    "revision": "0704d5a820377d23cb8c",
+    "url": "/js/Invest.a97121ec.js"
   },
   {
-    "revision": "0aaefa5ea7365b8f2d79",
-    "url": "/js/MetamaskManage.f29776ee.js"
+    "revision": "3b17f23db4ccbf9b1a6a",
+    "url": "/js/MetamaskManage.83a1a06d.js"
   },
   {
-    "revision": "295d6f19a2f1423df548",
-    "url": "/js/MobileHowDividends.397d1010.js"
+    "revision": "acf02a376d14c9ebe2c3",
+    "url": "/js/MobileHowDividends.52148334.js"
   },
   {
-    "revision": "ccdc83309b42c11eb391",
-    "url": "/js/MobileHowGetSFP.41c3f51c.js"
+    "revision": "5d3499d9308b001cce70",
+    "url": "/js/MobileHowGetSFP.62b1c26e.js"
   },
   {
-    "revision": "b3efa3d06c1b52a9eca2",
-    "url": "/js/MobileHowPurchase.50d3e8ba.js"
+    "revision": "8a41d2fd1f4ea5508a22",
+    "url": "/js/MobileHowPurchase.800143f7.js"
   },
   {
-    "revision": "424bef0bc9c319c29017",
-    "url": "/js/MobileHowRedeem.1b6b72a9.js"
+    "revision": "835838025dd9101ac52d",
+    "url": "/js/MobileHowRedeem.e9bc07f5.js"
   },
   {
-    "revision": "f656cdc33d0ee26b4d00",
-    "url": "/js/MobileMetaMaskManagement.544ba1fa.js"
+    "revision": "866de95f16b2f8c98bfa",
+    "url": "/js/MobileMetaMaskManagement.d9c58dd7.js"
   },
   {
-    "revision": "1e8662ffc2bd3172fe0e",
-    "url": "/js/MobileMetamask.60d3200a.js"
+    "revision": "88cbf57391115e1c60b7",
+    "url": "/js/MobileMetamask.25489156.js"
   },
   {
-    "revision": "d39a19007f69038d3bbb",
-    "url": "/js/MobileWebpage.d0fce2a4.js"
+    "revision": "43bdfd16d9cddcdf2ba8",
+    "url": "/js/MobileWebpage.6c7b582d.js"
   },
   {
-    "revision": "c8bb76ae0fc06092dfd0",
+    "revision": "d5f47c3398978919b7c9",
     "url": "/css/Operation.9b2243af.css"
   },
   {
-    "revision": "c8bb76ae0fc06092dfd0",
-    "url": "/js/Operation.c95ecce1.js"
+    "revision": "d5f47c3398978919b7c9",
+    "url": "/js/Operation.c2410825.js"
   },
   {
-    "revision": "cd70970ee7f526475acd",
-    "url": "/js/PurchaseRule.72582810.js"
+    "revision": "350be471c9ca15a641bc",
+    "url": "/js/PurchaseRule.0dd609eb.js"
   },
   {
-    "revision": "6ac68cb758f55a936241",
-    "url": "/js/SFIAward.0e0e0847.js"
+    "revision": "cd09c6153f5d87eb7323",
+    "url": "/js/SFIAward.baa2616c.js"
   },
   {
-    "revision": "602e3c9819808aa35ba7",
-    "url": "/js/SFPAward.6220b303.js"
+    "revision": "ffe43a13d5f31c94a150",
+    "url": "/js/SFPAward.3b5ff7d6.js"
   },
   {
-    "revision": "87533e74d8487efc4528",
-    "url": "/js/WhatFundInvestment.0a4beda5.js"
+    "revision": "c47fcdac1e1b6a2d9fc2",
+    "url": "/js/WhatFundInvestment.d4a6484f.js"
   },
   {
-    "revision": "aa9ffdf10755f64de89c",
-    "url": "/js/WhatSFP.69cae6cb.js"
+    "revision": "1c782c828cfc45be73f9",
+    "url": "/js/WhatSFP.ac845b52.js"
   },
   {
-    "revision": "7c09273214fd956cfd4d",
+    "revision": "a269578c7f7a9afedfc9",
     "url": "/css/app.6896880a.css"
   },
   {
-    "revision": "7c09273214fd956cfd4d",
-    "url": "/js/app.ebe841b6.js"
+    "revision": "a269578c7f7a9afedfc9",
+    "url": "/js/app.5f9de1e7.js"
   },
   {
     "revision": "d141c18cb38b0f1d0bc6",
@@ -216,7 +216,7 @@ self.__precacheManifest = [
     "url": "/fonts/element-icons.535877f5.woff"
   },
   {
-    "revision": "210e920f275534b023b359c22d9da544",
+    "revision": "c0af6d1fb845265595584f45c5fb1702",
     "url": "/fonts/element-icons.732389de.ttf"
   },
   {
@@ -376,16 +376,16 @@ self.__precacheManifest = [
     "url": "/img/how_purchase_6.35f92a81.png"
   },
   {
-    "revision": "5f25dce19327120ed7b2",
-    "url": "/js/About.d04a407e.js"
+    "revision": "61cf0c49f3ae47780d41",
+    "url": "/js/About.0c78bf90.js"
   },
   {
     "revision": "32379299064417f89e7ac719d68a7e57",
     "url": "/img/metamask_manage_7.32379299.png"
   },
   {
-    "revision": "792de69b72981c1332dd",
-    "url": "/js/Help.9a10eb5f.js"
+    "revision": "7c10dda8f634bf089af2",
+    "url": "/js/Help.e9f24982.js"
   },
   {
     "revision": "16f33b37a43eb938fe35e7a2406eac37",
@@ -732,7 +732,7 @@ self.__precacheManifest = [
     "url": "/img/mobile_metamask_manage_4.43673aeb.png"
   },
   {
-    "revision": "e6f2a230e99a62ebe9d0c2648b95016f",
+    "revision": "8aef20d3ec29f0c6d578db3a8b409394",
     "url": "/index.html"
   },
   {
@@ -744,15 +744,15 @@ self.__precacheManifest = [
     "url": "/static/.gitkeep"
   },
   {
-    "revision": "1467239b4248ba3dae41",
-    "url": "/js/AddToken.67936780.js"
+    "revision": "43a96f12a7003dd6bc03",
+    "url": "/js/AddToken.fb6d7679.js"
   },
   {
     "revision": "b10faab7d7779197de3bc653a0ec257e",
     "url": "/static/$mart_Investment_Ecology.pdf"
   },
   {
-    "revision": "5f25dce19327120ed7b2",
+    "revision": "61cf0c49f3ae47780d41",
     "url": "/css/About.922c4104.css"
   }
 ];
