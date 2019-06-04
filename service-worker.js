@@ -11,11 +11,11 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("/1.2.18/workbox-v3.6.3/workbox-sw.js");
-workbox.setConfig({modulePathPrefix: "/1.2.18/workbox-v3.6.3"});
+importScripts("/workbox-v3.6.3/workbox-sw.js");
+workbox.setConfig({modulePathPrefix: "/workbox-v3.6.3"});
 
 importScripts(
-  "/1.2.18/precache-manifest.8cb52e5f8b2876953cfebf9f915af232.js"
+  "/precache-manifest.49985577a9c344792d25816b568d3c45.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "smartFund"});
