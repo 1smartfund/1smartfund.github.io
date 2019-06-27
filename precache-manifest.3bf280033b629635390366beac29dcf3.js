@@ -196,12 +196,12 @@ self.__precacheManifest = [
     "url": "/js/WhatSFP.ea1bdd17.js"
   },
   {
-    "revision": "774dbb6a443c78ddfc8c",
+    "revision": "ab7e56a1b044288551d5",
     "url": "/css/app.128681aa.css"
   },
   {
-    "revision": "774dbb6a443c78ddfc8c",
-    "url": "/js/app.c553fb8b.js"
+    "revision": "ab7e56a1b044288551d5",
+    "url": "/js/app.c49c42a8.js"
   },
   {
     "revision": "081cb29ac71434926079",
@@ -240,7 +240,7 @@ self.__precacheManifest = [
     "url": "/fonts/element-icons.535877f5.woff"
   },
   {
-    "revision": "4c1fc398706d604adbe366e8937e3532",
+    "revision": "47e5861f21dd9e1dadede91dd569befe",
     "url": "/fonts/element-icons.732389de.ttf"
   },
   {
@@ -660,7 +660,7 @@ self.__precacheManifest = [
     "url": "/img/mobile_metamask_manage_4.43673aeb.png"
   },
   {
-    "revision": "7a06e764e9e6ba286c0a7bd55b972698",
+    "revision": "e4bfcb6f2d9b21b0f00bfea3891e839f",
     "url": "/index.html"
   },
   {
@@ -668,12 +668,12 @@ self.__precacheManifest = [
     "url": "/robots.txt"
   },
   {
-    "revision": "f8c448a6a6cf675b69e0",
-    "url": "/js/AddToken.a6888a23.js"
-  },
-  {
     "revision": "d41d8cd98f00b204e9800998ecf8427e",
     "url": "/static/.gitkeep"
+  },
+  {
+    "revision": "f8c448a6a6cf675b69e0",
+    "url": "/js/AddToken.a6888a23.js"
   },
   {
     "revision": "b10faab7d7779197de3bc653a0ec257e",
