@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/img/how_purchase_3.0fc459b9.png"
   },
   {
-    "revision": "3e610d89fc4284ccb6cc",
-    "url": "/js/Help.573cf48f.js"
+    "revision": "4911122b0d0ae45a8522",
+    "url": "/js/Help.aab0385f.js"
   },
   {
-    "revision": "67cd1cec41dcdaf5446c",
-    "url": "/js/Home.d5f0e528.js"
+    "revision": "bcecb692aade277784f9",
+    "url": "/js/Home.9aa1a94a.js"
   },
   {
     "revision": "a03cefbbd7b9eb1abdd9",
@@ -64,8 +64,8 @@ self.__precacheManifest = [
     "url": "/js/HowInstallMetamask.08e5e516.js"
   },
   {
-    "revision": "e0d140953a1f4bc355d2",
-    "url": "/js/HowPurchase.9c302342.js"
+    "revision": "e07e972e36da041eb342",
+    "url": "/js/HowPurchase.47befea2.js"
   },
   {
     "revision": "5f374cacb56d9a4f4371",
@@ -80,8 +80,8 @@ self.__precacheManifest = [
     "url": "/js/ImtokenHowGetSFP.2b49709d.js"
   },
   {
-    "revision": "f98a03aa9c5b70273b41",
-    "url": "/js/ImtokenHowPurchase.32f3a865.js"
+    "revision": "71156989ea1e42c1ea69",
+    "url": "/js/ImtokenHowPurchase.e054e4e8.js"
   },
   {
     "revision": "99fdfbb7e877829e01c4",
@@ -96,16 +96,16 @@ self.__precacheManifest = [
     "url": "/js/ImtokenVisitWebsite.a2994de2.js"
   },
   {
-    "revision": "512dd5fb916ccfa921f3",
-    "url": "/js/chunk-vendors.ad472475.js"
+    "revision": "3b863854d89e2bffd7e2",
+    "url": "/js/chunk-vendors.9bb6c8ac.js"
   },
   {
     "revision": "235b885027c6e374f9d6",
     "url": "/js/Invest.5161fcb7.js"
   },
   {
-    "revision": "90757288b259c05efe15",
-    "url": "/js/app.9bda4242.js"
+    "revision": "08253c3c0c280c083213",
+    "url": "/js/app.14648a32.js"
   },
   {
     "revision": "4b96e6390b5b0f1980ee",
@@ -132,8 +132,8 @@ self.__precacheManifest = [
     "url": "/js/MobileHowGetSFP.7e6c3e63.js"
   },
   {
-    "revision": "95258e4112e99e6c40c8",
-    "url": "/js/MobileHowPurchase.0a2d66b1.js"
+    "revision": "ed7b75a470669f79b162",
+    "url": "/js/MobileHowPurchase.26c2f7cd.js"
   },
   {
     "revision": "6b2a95e9ba802c463342",
@@ -196,16 +196,16 @@ self.__precacheManifest = [
     "url": "/js/DirectPush.c357cd92.js"
   },
   {
-    "revision": "90757288b259c05efe15",
+    "revision": "08253c3c0c280c083213",
     "url": "/css/app.b4c62e25.css"
   },
   {
-    "revision": "23ac0d2ea4c82dc7da87aa0bfc9e4711",
+    "revision": "31721f461b246da96b8ae4971890a43d",
     "url": "/index.html"
   },
   {
-    "revision": "512dd5fb916ccfa921f3",
-    "url": "/css/chunk-vendors.5a01d64f.css"
+    "revision": "3b863854d89e2bffd7e2",
+    "url": "/css/chunk-vendors.850267a1.css"
   },
   {
     "revision": "43673aebc7cdb35f9fe2484d3d491f6e",
@@ -244,7 +244,7 @@ self.__precacheManifest = [
     "url": "/fonts/element-icons.535877f5.woff"
   },
   {
-    "revision": "758a9271f125b4b1d5bc3dbd9454fadd",
+    "revision": "854f92c630a54c29a9baa683dac84e3d",
     "url": "/fonts/element-icons.732389de.ttf"
   },
   {
@@ -688,12 +688,12 @@ self.__precacheManifest = [
     "url": "/css/Home~Invite.a99a41b7.css"
   },
   {
-    "revision": "67cd1cec41dcdaf5446c",
+    "revision": "bcecb692aade277784f9",
     "url": "/css/Home.8cca3f18.css"
   },
   {
-    "revision": "3e610d89fc4284ccb6cc",
-    "url": "/css/Help.0566391f.css"
+    "revision": "4911122b0d0ae45a8522",
+    "url": "/css/Help.e7d346ac.css"
   },
   {
     "revision": "39c974e239c9818f3710",
