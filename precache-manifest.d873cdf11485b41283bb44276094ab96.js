@@ -92,8 +92,8 @@ self.__precacheManifest = [
     "url": "/js/ImtokenUse.3e1ff6ef.js"
   },
   {
-    "revision": "ecb242b713107aca2a06",
-    "url": "/js/ImtokenVisitWebsite.a2994de2.js"
+    "revision": "40cded720014ea8b1852",
+    "url": "/js/ImtokenVisitWebsite.b9783cd4.js"
   },
   {
     "revision": "3b863854d89e2bffd7e2",
@@ -104,8 +104,8 @@ self.__precacheManifest = [
     "url": "/js/Invest.e2d3285e.js"
   },
   {
-    "revision": "94f33d43fd43a81acbac",
-    "url": "/js/app.5b06677d.js"
+    "revision": "3156c676f95bd12cfff7",
+    "url": "/js/app.8c137385.js"
   },
   {
     "revision": "c6bb14b4bf0976b3b35e",
@@ -196,11 +196,11 @@ self.__precacheManifest = [
     "url": "/js/DirectPush.c357cd92.js"
   },
   {
-    "revision": "94f33d43fd43a81acbac",
+    "revision": "3156c676f95bd12cfff7",
     "url": "/css/app.a47a475d.css"
   },
   {
-    "revision": "5bfdf50449d49f16a356d737b99b68c0",
+    "revision": "0477d51614ca6899b0ed5b10c8f94590",
     "url": "/index.html"
   },
   {
@@ -212,12 +212,12 @@ self.__precacheManifest = [
     "url": "/img/mobile_metamask_manage_4.43673aeb.png"
   },
   {
-    "revision": "2ea0e18028a5638018e5e2501db5bb4b",
-    "url": "/img/sy_sfp.2ea0e180.png"
-  },
-  {
     "revision": "1c8ec3cf0f2e9067ae930256ff79577f",
     "url": "/img/sy_sfd.1c8ec3cf.png"
+  },
+  {
+    "revision": "2ea0e18028a5638018e5e2501db5bb4b",
+    "url": "/img/sy_sfp.2ea0e180.png"
   },
   {
     "revision": "1a82663b05fe369e3b26127e3320d371",
@@ -252,7 +252,7 @@ self.__precacheManifest = [
     "url": "/fonts/element-icons.535877f5.woff"
   },
   {
-    "revision": "98a5d9092bd05e9775fc3e092654455f",
+    "revision": "85322d7747fe65835d72a513c51acc3a",
     "url": "/fonts/element-icons.732389de.ttf"
   },
   {
@@ -656,8 +656,8 @@ self.__precacheManifest = [
     "url": "/img/sides_pillars.6338ed52.png"
   },
   {
-    "revision": "6b8fea3aca487095878c3700d95afc12",
-    "url": "/img/visit_website_3.6b8fea3a.png"
+    "revision": "8aee07bfd301875be5c81a3cc094b88f",
+    "url": "/img/visit_website_3.8aee07bf.png"
   },
   {
     "revision": "ea1f13b10145f943215101252bdaf547",
