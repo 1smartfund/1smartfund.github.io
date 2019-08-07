@@ -1,6 +1,6 @@
 {
-  "name": "$martFund",
-  "short_name": "$martFund",
+  "name": "SmartFund",
+  "short_name": "SmartFund",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
