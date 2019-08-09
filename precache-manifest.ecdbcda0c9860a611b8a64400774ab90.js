@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "3c85b788889fcb5763c3eaf73fc0144b",
-    "url": "/img/head.3c85b788.png"
+    "revision": "1f79437845b29bfe99302b8e9cdf4695",
+    "url": "/img/mobile_metamask_manage_5.1f794378.png"
   },
   {
     "revision": "fe2108c3c3b0df5ae46cdee6bafc09e9",
@@ -24,16 +24,16 @@ self.__precacheManifest = [
     "url": "/static/.gitkeep"
   },
   {
-    "revision": "47024736d72372fcf4bcb8035f973e00",
-    "url": "/img/metamask_manage_2.47024736.png"
+    "revision": "32379299064417f89e7ac719d68a7e57",
+    "url": "/img/metamask_manage_7.32379299.png"
   },
   {
     "revision": "4911122b0d0ae45a8522",
     "url": "/js/Help.aab0385f.js"
   },
   {
-    "revision": "8bd9b435ca052bb44e85",
-    "url": "/js/Home.5f7b345c.js"
+    "revision": "d72553e1104d8ad004a1",
+    "url": "/js/Home.36cdaeca.js"
   },
   {
     "revision": "a03cefbbd7b9eb1abdd9",
@@ -104,8 +104,8 @@ self.__precacheManifest = [
     "url": "/js/Invest.e2d3285e.js"
   },
   {
-    "revision": "72a504d272bde917a60f",
-    "url": "/js/app.659bfeda.js"
+    "revision": "26881696770205bad54c",
+    "url": "/js/app.819ee378.js"
   },
   {
     "revision": "c6bb14b4bf0976b3b35e",
@@ -180,8 +180,8 @@ self.__precacheManifest = [
     "url": "/js/RewardAward.a39b8d53.js"
   },
   {
-    "revision": "ffb353eaa88c368d8a10e502db55654f",
-    "url": "/img/bg.ffb353ea.png"
+    "revision": "c39b994ba3f421146dca79eccdb6c237",
+    "url": "/img/how_install_metamask_6.c39b994b.png"
   },
   {
     "revision": "6dfcec90469a8c1f22be",
@@ -196,11 +196,11 @@ self.__precacheManifest = [
     "url": "/js/DirectPush.c357cd92.js"
   },
   {
-    "revision": "72a504d272bde917a60f",
-    "url": "/css/app.a47a475d.css"
+    "revision": "26881696770205bad54c",
+    "url": "/css/app.283de5c6.css"
   },
   {
-    "revision": "dccd101236c02a8bb0f5aa2ab099cdc8",
+    "revision": "3422fa8e6193b2963c117c5837b6508f",
     "url": "/index.html"
   },
   {
@@ -212,12 +212,12 @@ self.__precacheManifest = [
     "url": "/img/mobile_metamask_manage_4.43673aeb.png"
   },
   {
-    "revision": "2ea0e18028a5638018e5e2501db5bb4b",
-    "url": "/img/sy_sfp.2ea0e180.png"
-  },
-  {
     "revision": "1c8ec3cf0f2e9067ae930256ff79577f",
     "url": "/img/sy_sfd.1c8ec3cf.png"
+  },
+  {
+    "revision": "2ea0e18028a5638018e5e2501db5bb4b",
+    "url": "/img/sy_sfp.2ea0e180.png"
   },
   {
     "revision": "1a82663b05fe369e3b26127e3320d371",
@@ -252,7 +252,7 @@ self.__precacheManifest = [
     "url": "/fonts/element-icons.535877f5.woff"
   },
   {
-    "revision": "70eeedc58809e125d0864f5c1efa05ab",
+    "revision": "220cc7d7dc4d5043b6976a934a375cdf",
     "url": "/fonts/element-icons.732389de.ttf"
   },
   {
@@ -332,6 +332,10 @@ self.__precacheManifest = [
     "url": "/img/metamask_manage_5.e778924c.png"
   },
   {
+    "revision": "8256b726adf967c5093dca911edff2f5",
+    "url": "/img/dashboard_bg.8256b726.png"
+  },
+  {
     "revision": "04ad98f7fb468d5cbe834087828c0705",
     "url": "/img/how_redeem_2.04ad98f7.png"
   },
@@ -372,24 +376,24 @@ self.__precacheManifest = [
     "url": "/img/how_redeem_1.a459609c.png"
   },
   {
-    "revision": "1f79437845b29bfe99302b8e9cdf4695",
-    "url": "/img/mobile_metamask_manage_5.1f794378.png"
-  },
-  {
     "revision": "c6f4df08dd75f61d6d41",
     "url": "/js/About.f45b2a75.js"
+  },
+  {
+    "revision": "3c85b788889fcb5763c3eaf73fc0144b",
+    "url": "/img/head.3c85b788.png"
   },
   {
     "revision": "0fc459b97d30c1837b45c0b84bfd8c2b",
     "url": "/img/how_purchase_3.0fc459b9.png"
   },
   {
-    "revision": "32379299064417f89e7ac719d68a7e57",
-    "url": "/img/metamask_manage_7.32379299.png"
-  },
-  {
     "revision": "1f9e51f36b86f91744bba5ff508a9507",
     "url": "/img/metamask_manage_9.1f9e51f3.png"
+  },
+  {
+    "revision": "47024736d72372fcf4bcb8035f973e00",
+    "url": "/img/metamask_manage_2.47024736.png"
   },
   {
     "revision": "8f35b9a0cb79bd855216d08dd0fba1f1",
@@ -464,12 +468,12 @@ self.__precacheManifest = [
     "url": "/img/what_2.0e2be321.png"
   },
   {
-    "revision": "c39b994ba3f421146dca79eccdb6c237",
-    "url": "/img/how_install_metamask_6.c39b994b.png"
-  },
-  {
     "revision": "6d0c51a52f84a278dd80fbd6450c5311",
     "url": "/img/mobile_metamask_manage_6.6d0c51a5.png"
+  },
+  {
+    "revision": "ffb353eaa88c368d8a10e502db55654f",
+    "url": "/img/bg.ffb353ea.png"
   },
   {
     "revision": "3849ed9d4a9ddf43cd476132175ea189",
@@ -586,10 +590,6 @@ self.__precacheManifest = [
   {
     "revision": "1b63ce1c4d3e550c75f167ca66ec46d8",
     "url": "/img/imtoken_how_redeem_5.1b63ce1c.png"
-  },
-  {
-    "revision": "8256b726adf967c5093dca911edff2f5",
-    "url": "/img/dashboard_bg.8256b726.png"
   },
   {
     "revision": "7568556a08ea11b04d48b82bd3b83e46",
@@ -740,8 +740,8 @@ self.__precacheManifest = [
     "url": "/css/Home~Invite.a99a41b7.css"
   },
   {
-    "revision": "8bd9b435ca052bb44e85",
-    "url": "/css/Home.c9a0088c.css"
+    "revision": "d72553e1104d8ad004a1",
+    "url": "/css/Home.0f9e4270.css"
   },
   {
     "revision": "4911122b0d0ae45a8522",
