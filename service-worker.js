@@ -15,7 +15,7 @@ importScripts("/workbox-v3.6.3/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/workbox-v3.6.3"});
 
 importScripts(
-  "/precache-manifest.ecdbcda0c9860a611b8a64400774ab90.js"
+  "/precache-manifest.fa0eb5fe9bbf0326131e488828a1876f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "smartFund"});
