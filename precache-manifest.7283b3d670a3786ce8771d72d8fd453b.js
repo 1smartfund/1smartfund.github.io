@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "1f79437845b29bfe99302b8e9cdf4695",
-    "url": "/img/mobile_metamask_manage_5.1f794378.png"
+    "revision": "32379299064417f89e7ac719d68a7e57",
+    "url": "/img/metamask_manage_7.32379299.png"
   },
   {
     "revision": "fe2108c3c3b0df5ae46cdee6bafc09e9",
@@ -24,16 +24,16 @@ self.__precacheManifest = [
     "url": "/static/.gitkeep"
   },
   {
-    "revision": "32379299064417f89e7ac719d68a7e57",
-    "url": "/img/metamask_manage_7.32379299.png"
+    "revision": "cb0e8e14bbc7fe99e4abc3d9d29daf75",
+    "url": "/img/imtoken_how_dividends_1.cb0e8e14.png"
   },
   {
     "revision": "420a0d00fd00e2d881bb",
     "url": "/js/Help.8cb61f16.js"
   },
   {
-    "revision": "6cad2eb547376f6a10e4",
-    "url": "/js/Home.c392f08a.js"
+    "revision": "65220fc04468ad411c20",
+    "url": "/js/Home.febf42ed.js"
   },
   {
     "revision": "a03cefbbd7b9eb1abdd9",
@@ -104,8 +104,8 @@ self.__precacheManifest = [
     "url": "/js/Invest.e269c974.js"
   },
   {
-    "revision": "9876ab00a72f3b488830",
-    "url": "/js/app.e8628807.js"
+    "revision": "57bbdeb33a4de3f35a7a",
+    "url": "/js/app.857eaf94.js"
   },
   {
     "revision": "eaf3809c3555085e5ced",
@@ -196,11 +196,11 @@ self.__precacheManifest = [
     "url": "/js/DirectPush.70488058.js"
   },
   {
-    "revision": "9876ab00a72f3b488830",
+    "revision": "57bbdeb33a4de3f35a7a",
     "url": "/css/app.147d8905.css"
   },
   {
-    "revision": "4b7d2fbf583e21745987663887ad9736",
+    "revision": "a6dcdec082c65614e209a7bdf03fb6c7",
     "url": "/index.html"
   },
   {
@@ -248,7 +248,7 @@ self.__precacheManifest = [
     "url": "/fonts/element-icons.535877f5.woff"
   },
   {
-    "revision": "b89d8ca221ba4942de50bf5195cec512",
+    "revision": "aad5f231db18daba115e31ce9cd5d83b",
     "url": "/fonts/element-icons.732389de.ttf"
   },
   {
@@ -340,18 +340,6 @@ self.__precacheManifest = [
     "url": "/img/how_dividends_1.8a51b24b.png"
   },
   {
-    "revision": "8256b726adf967c5093dca911edff2f5",
-    "url": "/img/dashboard_bg.8256b726.png"
-  },
-  {
-    "revision": "d7246da5395e5efd4dcc84f007905e48",
-    "url": "/img/head_en.d7246da5.png"
-  },
-  {
-    "revision": "77e58570f80357e68212d6adb7f6b964",
-    "url": "/img/head.77e58570.png"
-  },
-  {
     "revision": "b6bfcd086b5d37a59de0b23c8a7dc4ad",
     "url": "/img/title.b6bfcd08.png"
   },
@@ -384,8 +372,8 @@ self.__precacheManifest = [
     "url": "/img/how_redeem_1.a459609c.png"
   },
   {
-    "revision": "b4b66a0145400f6b452b",
-    "url": "/js/About.0c6eb814.js"
+    "revision": "1f79437845b29bfe99302b8e9cdf4695",
+    "url": "/img/mobile_metamask_manage_5.1f794378.png"
   },
   {
     "revision": "3c85b788889fcb5763c3eaf73fc0144b",
@@ -396,8 +384,8 @@ self.__precacheManifest = [
     "url": "/img/how_purchase_3.0fc459b9.png"
   },
   {
-    "revision": "1f9e51f36b86f91744bba5ff508a9507",
-    "url": "/img/metamask_manage_9.1f9e51f3.png"
+    "revision": "b4b66a0145400f6b452b",
+    "url": "/js/About.0c6eb814.js"
   },
   {
     "revision": "47024736d72372fcf4bcb8035f973e00",
@@ -408,8 +396,8 @@ self.__precacheManifest = [
     "url": "/img/mobile_how_redeem_6.8f35b9a0.png"
   },
   {
-    "revision": "cb0e8e14bbc7fe99e4abc3d9d29daf75",
-    "url": "/img/imtoken_how_dividends_1.cb0e8e14.png"
+    "revision": "1f9e51f36b86f91744bba5ff508a9507",
+    "url": "/img/metamask_manage_9.1f9e51f3.png"
   },
   {
     "revision": "670d7b37987cc03025cf6e3bd0db6023",
@@ -456,6 +444,18 @@ self.__precacheManifest = [
     "url": "/img/mobile_how_dividends_3.480e06f7.png"
   },
   {
+    "revision": "8256b726adf967c5093dca911edff2f5",
+    "url": "/img/dashboard_bg.8256b726.png"
+  },
+  {
+    "revision": "77e58570f80357e68212d6adb7f6b964",
+    "url": "/img/head.77e58570.png"
+  },
+  {
+    "revision": "d7246da5395e5efd4dcc84f007905e48",
+    "url": "/img/head_en.d7246da5.png"
+  },
+  {
     "revision": "7375f8a5cfb16aecd226fcf929a04091",
     "url": "/img/how_purchase_4.7375f8a5.png"
   },
@@ -488,12 +488,12 @@ self.__precacheManifest = [
     "url": "/img/mobile_how_purchase_2.9ef4b4e0.png"
   },
   {
-    "revision": "a8768571f7ce4291ba57e103977f838b",
-    "url": "/img/logo_en.a8768571.png"
-  },
-  {
     "revision": "f2a6a2782171620bddddbb0b15a5136f",
     "url": "/img/logo.f2a6a278.png"
+  },
+  {
+    "revision": "a8768571f7ce4291ba57e103977f838b",
+    "url": "/img/logo_en.a8768571.png"
   },
   {
     "revision": "587a2dd93b077e45923086d2ea6dae27",
@@ -752,8 +752,8 @@ self.__precacheManifest = [
     "url": "/css/Home~Invite.a99a41b7.css"
   },
   {
-    "revision": "6cad2eb547376f6a10e4",
-    "url": "/css/Home.704eb123.css"
+    "revision": "65220fc04468ad411c20",
+    "url": "/css/Home.bae74b78.css"
   },
   {
     "revision": "420a0d00fd00e2d881bb",
