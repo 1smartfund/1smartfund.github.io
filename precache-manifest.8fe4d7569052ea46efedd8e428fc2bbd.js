@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/js/Help.8cb61f16.js"
   },
   {
-    "revision": "142c1a0bf8dd93b13b36",
-    "url": "/js/Home.002959e7.js"
+    "revision": "f412fc2a6b517efcf88c",
+    "url": "/js/Home.cb678da8.js"
   },
   {
     "revision": "a03cefbbd7b9eb1abdd9",
@@ -100,12 +100,12 @@ self.__precacheManifest = [
     "url": "/js/chunk-vendors.9bb6c8ac.js"
   },
   {
-    "revision": "07197e82c8ad4058db9d",
+    "revision": "ba3cf08345a5119b4e56",
     "url": "/js/Invest.acfed899.js"
   },
   {
-    "revision": "67dea066c0a37d83b98f",
-    "url": "/js/app.04456c76.js"
+    "revision": "68ee9b3d4de2c98c1ac7",
+    "url": "/js/app.82707c4c.js"
   },
   {
     "revision": "db7c3748407e7ded67cf",
@@ -196,11 +196,11 @@ self.__precacheManifest = [
     "url": "/js/DirectPush.3d084771.js"
   },
   {
-    "revision": "67dea066c0a37d83b98f",
+    "revision": "68ee9b3d4de2c98c1ac7",
     "url": "/css/app.147d8905.css"
   },
   {
-    "revision": "3b79fa3e62383121091f3a19c12ab8af",
+    "revision": "dfffc366c799124e55f5a1b0a027a7de",
     "url": "/index.html"
   },
   {
@@ -248,7 +248,7 @@ self.__precacheManifest = [
     "url": "/fonts/element-icons.535877f5.woff"
   },
   {
-    "revision": "bb86d7e9eb463bdb92f373fdeeeaa344",
+    "revision": "c67a14a10133ca5d2e48df2d41c475f4",
     "url": "/fonts/element-icons.732389de.ttf"
   },
   {
@@ -384,7 +384,7 @@ self.__precacheManifest = [
     "url": "/img/how_purchase_3.0fc459b9.png"
   },
   {
-    "revision": "d0c301585b1ce993a50d",
+    "revision": "2a6c4bf9ce6b57f3c9c1",
     "url": "/js/About.e3bcac41.js"
   },
   {
@@ -744,15 +744,15 @@ self.__precacheManifest = [
     "url": "/css/Invite.672f8ee5.css"
   },
   {
-    "revision": "07197e82c8ad4058db9d",
-    "url": "/css/Invest.88b0ca9f.css"
+    "revision": "ba3cf08345a5119b4e56",
+    "url": "/css/Invest.5463aaa9.css"
   },
   {
     "revision": "b8fb350542346fdef3ca",
     "url": "/css/Home~Invite.e9024309.css"
   },
   {
-    "revision": "142c1a0bf8dd93b13b36",
+    "revision": "f412fc2a6b517efcf88c",
     "url": "/css/Home.b35b469c.css"
   },
   {
@@ -764,7 +764,7 @@ self.__precacheManifest = [
     "url": "/css/DirectPush.5834edf2.css"
   },
   {
-    "revision": "d0c301585b1ce993a50d",
-    "url": "/css/About.1f9e04c8.css"
+    "revision": "2a6c4bf9ce6b57f3c9c1",
+    "url": "/css/About.aa69e986.css"
   }
 ];
