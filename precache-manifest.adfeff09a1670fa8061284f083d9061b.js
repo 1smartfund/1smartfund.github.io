@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/js/Help.8cb61f16.js"
   },
   {
-    "revision": "f412fc2a6b517efcf88c",
-    "url": "/js/Home.cb678da8.js"
+    "revision": "0cd952eafca4dba1149b",
+    "url": "/js/Home.fb3af922.js"
   },
   {
     "revision": "a03cefbbd7b9eb1abdd9",
@@ -104,8 +104,8 @@ self.__precacheManifest = [
     "url": "/js/Invest.acfed899.js"
   },
   {
-    "revision": "68ee9b3d4de2c98c1ac7",
-    "url": "/js/app.82707c4c.js"
+    "revision": "7faa7e3d863c1d920a1b",
+    "url": "/js/app.0523ef5e.js"
   },
   {
     "revision": "db7c3748407e7ded67cf",
@@ -196,11 +196,11 @@ self.__precacheManifest = [
     "url": "/js/DirectPush.3d084771.js"
   },
   {
-    "revision": "68ee9b3d4de2c98c1ac7",
+    "revision": "7faa7e3d863c1d920a1b",
     "url": "/css/app.147d8905.css"
   },
   {
-    "revision": "dfffc366c799124e55f5a1b0a027a7de",
+    "revision": "bb916122a2af756010ec280f20096b36",
     "url": "/index.html"
   },
   {
@@ -248,7 +248,7 @@ self.__precacheManifest = [
     "url": "/fonts/element-icons.535877f5.woff"
   },
   {
-    "revision": "c67a14a10133ca5d2e48df2d41c475f4",
+    "revision": "9c7cdb1d969934cdd83fed4bafaa7407",
     "url": "/fonts/element-icons.732389de.ttf"
   },
   {
@@ -752,7 +752,7 @@ self.__precacheManifest = [
     "url": "/css/Home~Invite.e9024309.css"
   },
   {
-    "revision": "f412fc2a6b517efcf88c",
+    "revision": "0cd952eafca4dba1149b",
     "url": "/css/Home.b35b469c.css"
   },
   {
