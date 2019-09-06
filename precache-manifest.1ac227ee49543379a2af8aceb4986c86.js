@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/js/Help.8cb61f16.js"
   },
   {
-    "revision": "0cd952eafca4dba1149b",
-    "url": "/js/Home.fb3af922.js"
+    "revision": "8b6f9b0c3c820f115c16",
+    "url": "/js/Home.6405b945.js"
   },
   {
     "revision": "a03cefbbd7b9eb1abdd9",
@@ -104,8 +104,8 @@ self.__precacheManifest = [
     "url": "/js/Invest.acfed899.js"
   },
   {
-    "revision": "7faa7e3d863c1d920a1b",
-    "url": "/js/app.0523ef5e.js"
+    "revision": "9ee8c6b9aefcc53d6e03",
+    "url": "/js/app.681968b6.js"
   },
   {
     "revision": "db7c3748407e7ded67cf",
@@ -196,11 +196,11 @@ self.__precacheManifest = [
     "url": "/js/DirectPush.3d084771.js"
   },
   {
-    "revision": "7faa7e3d863c1d920a1b",
+    "revision": "9ee8c6b9aefcc53d6e03",
     "url": "/css/app.147d8905.css"
   },
   {
-    "revision": "bb916122a2af756010ec280f20096b36",
+    "revision": "14dda5f51c0ebfacf05c3d36f7524660",
     "url": "/index.html"
   },
   {
@@ -248,7 +248,7 @@ self.__precacheManifest = [
     "url": "/fonts/element-icons.535877f5.woff"
   },
   {
-    "revision": "9c7cdb1d969934cdd83fed4bafaa7407",
+    "revision": "da15d412ea551e51cf54cce811738afd",
     "url": "/fonts/element-icons.732389de.ttf"
   },
   {
@@ -476,12 +476,12 @@ self.__precacheManifest = [
     "url": "/img/mobile_metamask_manage_6.6d0c51a5.png"
   },
   {
-    "revision": "a8768571f7ce4291ba57e103977f838b",
-    "url": "/img/logo_en.a8768571.png"
-  },
-  {
     "revision": "f2a6a2782171620bddddbb0b15a5136f",
     "url": "/img/logo.f2a6a278.png"
+  },
+  {
+    "revision": "a8768571f7ce4291ba57e103977f838b",
+    "url": "/img/logo_en.a8768571.png"
   },
   {
     "revision": "587a2dd93b077e45923086d2ea6dae27",
@@ -506,18 +506,6 @@ self.__precacheManifest = [
   {
     "revision": "238896783d212de7134325c5637b5664",
     "url": "/img/how_install_metamask_8.23889678.png"
-  },
-  {
-    "revision": "8256b726adf967c5093dca911edff2f5",
-    "url": "/img/dashboard_bg.8256b726.png"
-  },
-  {
-    "revision": "30f8a76b60447c00180dc0a8225bd6e4",
-    "url": "/img/head.30f8a76b.png"
-  },
-  {
-    "revision": "f99b6fefc559d139546b5beb2d18b47c",
-    "url": "/img/head_en.f99b6fef.png"
   },
   {
     "revision": "97b4dea2194bcfd1329987d4cc29a371",
@@ -636,6 +624,18 @@ self.__precacheManifest = [
     "url": "/img/mobile_how_redeem_3.2c6226c0.png"
   },
   {
+    "revision": "8256b726adf967c5093dca911edff2f5",
+    "url": "/img/dashboard_bg.8256b726.png"
+  },
+  {
+    "revision": "f99b6fefc559d139546b5beb2d18b47c",
+    "url": "/img/head_en.f99b6fef.png"
+  },
+  {
+    "revision": "30f8a76b60447c00180dc0a8225bd6e4",
+    "url": "/img/head.30f8a76b.png"
+  },
+  {
     "revision": "b5b7249b1808d39d67815fe57d3930bd",
     "url": "/img/metamask_manage_8.b5b7249b.png"
   },
@@ -752,8 +752,8 @@ self.__precacheManifest = [
     "url": "/css/Home~Invite.e9024309.css"
   },
   {
-    "revision": "0cd952eafca4dba1149b",
-    "url": "/css/Home.b35b469c.css"
+    "revision": "8b6f9b0c3c820f115c16",
+    "url": "/css/Home.3d8253a9.css"
   },
   {
     "revision": "420a0d00fd00e2d881bb",
