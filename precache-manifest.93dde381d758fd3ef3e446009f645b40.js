@@ -152,12 +152,12 @@ self.__precacheManifest = [
     "url": "/js/MobileWebpage.64baa221.js"
   },
   {
-    "revision": "5b5d0f19607c20a4b23b",
-    "url": "/css/MyInvite.f3a25e1c.css"
+    "revision": "8fce909b9cf2d5576b3b",
+    "url": "/css/MyInvite.c98626ac.css"
   },
   {
-    "revision": "5b5d0f19607c20a4b23b",
-    "url": "/js/MyInvite.0dc0f711.js"
+    "revision": "8fce909b9cf2d5576b3b",
+    "url": "/js/MyInvite.c4e1f9e8.js"
   },
   {
     "revision": "13a66b2ebf35a2e562b6",
@@ -204,12 +204,12 @@ self.__precacheManifest = [
     "url": "/js/WhatSFP.3c51a3cb.js"
   },
   {
-    "revision": "0db21c7cda37db610ec4",
+    "revision": "99365fa3ceb179a50d63",
     "url": "/css/app.47a331c5.css"
   },
   {
-    "revision": "0db21c7cda37db610ec4",
-    "url": "/js/app.b65fae0c.js"
+    "revision": "99365fa3ceb179a50d63",
+    "url": "/js/app.af730bd5.js"
   },
   {
     "revision": "3b863854d89e2bffd7e2",
@@ -256,7 +256,7 @@ self.__precacheManifest = [
     "url": "/fonts/element-icons.535877f5.woff"
   },
   {
-    "revision": "47b5c7891d0cc894a0cf870b6edc0332",
+    "revision": "1f3797a2ff582731f115f6b0943110bc",
     "url": "/fonts/element-icons.732389de.ttf"
   },
   {
@@ -580,12 +580,12 @@ self.__precacheManifest = [
     "url": "/img/mobile_how_purchase_6.ff51d291.png"
   },
   {
-    "revision": "a8768571f7ce4291ba57e103977f838b",
-    "url": "/img/logo_en.a8768571.png"
-  },
-  {
     "revision": "f2a6a2782171620bddddbb0b15a5136f",
     "url": "/img/logo.f2a6a278.png"
+  },
+  {
+    "revision": "a8768571f7ce4291ba57e103977f838b",
+    "url": "/img/logo_en.a8768571.png"
   },
   {
     "revision": "afa0df332f18c1d4cd19ebae66d1b06b",
@@ -748,7 +748,7 @@ self.__precacheManifest = [
     "url": "/img/mobile_metamask_manage_4.43673aeb.png"
   },
   {
-    "revision": "eb97af97d4e8ba62ae6fb8ce05ff5d93",
+    "revision": "330787e3e2c538c767df732d223f29c0",
     "url": "/index.html"
   },
   {
@@ -756,8 +756,8 @@ self.__precacheManifest = [
     "url": "/robots.txt"
   },
   {
-    "revision": "256fe4bced0c5d0a4bf2",
-    "url": "/js/DirectPush~MyInvite~Reward.7be471fc.js"
+    "revision": "db71c78527ef4e2a0dfe",
+    "url": "/js/DirectPush~MyInvite~Reward.26e2bb20.js"
   },
   {
     "revision": "115048ddde92736720b7",
