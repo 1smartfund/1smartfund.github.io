@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/css/Help.e7d346ac.css"
   },
   {
-    "revision": "13d4e92c4894fd87a8d4",
-    "url": "/css/Home.b3076a36.css"
+    "revision": "c2d1cab6e2de1c4afb27",
+    "url": "/css/Home.1cd10eb3.css"
   },
   {
-    "revision": "13d4e92c4894fd87a8d4",
-    "url": "/js/Home.740fcf04.js"
+    "revision": "c2d1cab6e2de1c4afb27",
+    "url": "/js/Home.c5c21737.js"
   },
   {
     "revision": "a03cefbbd7b9eb1abdd9",
@@ -204,12 +204,12 @@ self.__precacheManifest = [
     "url": "/js/WhatSFP.3c51a3cb.js"
   },
   {
-    "revision": "99365fa3ceb179a50d63",
+    "revision": "321604bffd3e023dca19",
     "url": "/css/app.47a331c5.css"
   },
   {
-    "revision": "99365fa3ceb179a50d63",
-    "url": "/js/app.af730bd5.js"
+    "revision": "321604bffd3e023dca19",
+    "url": "/js/app.563cbd8f.js"
   },
   {
     "revision": "3b863854d89e2bffd7e2",
@@ -220,12 +220,12 @@ self.__precacheManifest = [
     "url": "/js/chunk-vendors.9bb6c8ac.js"
   },
   {
-    "revision": "1c8ec3cf0f2e9067ae930256ff79577f",
-    "url": "/img/sy_sfd.1c8ec3cf.png"
-  },
-  {
     "revision": "2ea0e18028a5638018e5e2501db5bb4b",
     "url": "/img/sy_sfp.2ea0e180.png"
+  },
+  {
+    "revision": "1c8ec3cf0f2e9067ae930256ff79577f",
+    "url": "/img/sy_sfd.1c8ec3cf.png"
   },
   {
     "revision": "1a82663b05fe369e3b26127e3320d371",
@@ -256,7 +256,7 @@ self.__precacheManifest = [
     "url": "/fonts/element-icons.535877f5.woff"
   },
   {
-    "revision": "1f3797a2ff582731f115f6b0943110bc",
+    "revision": "05ddc7f33765cd51dbcaf5b2d17ac23c",
     "url": "/fonts/element-icons.732389de.ttf"
   },
   {
@@ -476,6 +476,10 @@ self.__precacheManifest = [
     "url": "/img/mobile_how_redeem_5.1b63ce1c.png"
   },
   {
+    "revision": "83bb1b8ef8d244b98e6346e02ab6f7f6",
+    "url": "/img/chart-loading.83bb1b8e.png"
+  },
+  {
     "revision": "0e2be3215caf8c59fcbc338c50e0cb96",
     "url": "/img/what_2.0e2be321.png"
   },
@@ -506,10 +510,6 @@ self.__precacheManifest = [
   {
     "revision": "fa2e4116ad60e22cac00f8fbc27670af",
     "url": "/img/how_install_metamask_1.fa2e4116.png"
-  },
-  {
-    "revision": "83bb1b8ef8d244b98e6346e02ab6f7f6",
-    "url": "/img/chart-loading.83bb1b8e.png"
   },
   {
     "revision": "fb159c45029634a2354286d81e67563b",
@@ -748,7 +748,7 @@ self.__precacheManifest = [
     "url": "/img/mobile_metamask_manage_4.43673aeb.png"
   },
   {
-    "revision": "330787e3e2c538c767df732d223f29c0",
+    "revision": "28cce24a697d9d028a380b02cb2a5403",
     "url": "/index.html"
   },
   {
