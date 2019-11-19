@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/css/Help.e7d346ac.css"
   },
   {
-    "revision": "921da8850af22c023476",
+    "revision": "a4de474d0cf2b13fa0be",
     "url": "/css/Home.923f698b.css"
   },
   {
-    "revision": "921da8850af22c023476",
-    "url": "/js/Home.dffb246f.js"
+    "revision": "a4de474d0cf2b13fa0be",
+    "url": "/js/Home.9fdd93ad.js"
   },
   {
     "revision": "a03cefbbd7b9eb1abdd9",
@@ -204,12 +204,12 @@ self.__precacheManifest = [
     "url": "/js/WhatSFP.3c51a3cb.js"
   },
   {
-    "revision": "cba6a89d9db8e70554c5",
+    "revision": "25263e8be7f7fb49efde",
     "url": "/css/app.82300263.css"
   },
   {
-    "revision": "cba6a89d9db8e70554c5",
-    "url": "/js/app.04a09c68.js"
+    "revision": "25263e8be7f7fb49efde",
+    "url": "/js/app.8c1b7dca.js"
   },
   {
     "revision": "9303a43ac48eab1bca1d",
@@ -256,7 +256,7 @@ self.__precacheManifest = [
     "url": "/fonts/element-icons.535877f5.woff"
   },
   {
-    "revision": "aee561eb19a1bd10fa566838d1877eb3",
+    "revision": "d61675c6afa8ad3cff15c701f4291f40",
     "url": "/fonts/element-icons.732389de.ttf"
   },
   {
@@ -732,12 +732,12 @@ self.__precacheManifest = [
     "url": "/img/dashboard_bg.8256b726.png"
   },
   {
-    "revision": "1bf52d44cecb7df1a081b5021a19fe6e",
-    "url": "/img/head.1bf52d44.jpg"
-  },
-  {
     "revision": "1fc7d249fb02ec9aaf58c073c7e9c831",
     "url": "/img/head_en.1fc7d249.jpg"
+  },
+  {
+    "revision": "1bf52d44cecb7df1a081b5021a19fe6e",
+    "url": "/img/head.1bf52d44.jpg"
   },
   {
     "revision": "1f9e51f36b86f91744bba5ff508a9507",
@@ -748,7 +748,7 @@ self.__precacheManifest = [
     "url": "/img/mobile_metamask_manage_4.43673aeb.png"
   },
   {
-    "revision": "61c16d9e70069e131a467c4aaf746113",
+    "revision": "5967783af274334e592aa9f4108a56a0",
     "url": "/index.html"
   },
   {
